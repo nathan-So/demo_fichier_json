@@ -1,8 +1,8 @@
-[
-	{ "nom" : "Auchan", "technologies" : ["Angular", "Springboot", "Xamarin"], "projet_client" :"Oui" },
-	{ "nom" : "Casino", "technologies" : ["Java/Android", "Swift"], "projet_client":"Oui" },	
-	{ "nom" : "CapGénie", "technologies" : ["Angular", "dotnet", "Xamarin"], "projet_client":"non" },
-	{ "nom" : "Nexity", "technologies" : ["Java/Android", "Swift"], "projet_client":"Oui" },
-	{ "nom" : "Digicare", "technologies" : ["Java/Android", "Swift"], "projet_client":"Oui" },
-	{ "nom" : "Cassis Paprika", "technologies": ["Java/Android"], "projet_client":"Oui" },
-]
+ [
+		{ "id": 1, nom:"Auchan", "technologies":["Angular", "Springboot", "Xamarin"], "projet_client":"Oui" },
+		{ "id": 2, nom:"Casino", "technologies":["Java/Android", "Swift"], "projet_client":"Oui" },	
+		{ "id": 3, nom:"CapGénie", "technologies":["Angular", "dotnet", "Xamarin"], "projet_client":"non" },
+		{ "id": 4, nom:"Nexity", "technologies":["Java/Android", "Swift"], "projet_client":"Oui" },
+		{ "id": 5, nom:"Digicare", "technologies":["Java/Android", "Swift"], "projet_client":"Oui" },
+		{ "id": 6, nom:"Cassis Paprika", "technologies":["Java/Android"], "projet_client":"Oui" }
+	]
