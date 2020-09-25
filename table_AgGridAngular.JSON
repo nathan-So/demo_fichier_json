@@ -1,0 +1,14 @@
+[
+		{ "id": 1, "date":2016 , "plateforme":"web", "nom":"Auchan", "technologies":["Angular", "Springboot", "Xamarin"], "projet_client":"oui" },
+		{ "id": 2, "date":2016 , "plateforme":"mobile", "nom":"Casino", "technologies":["Java/Android", "Swift"], "projet_client":"oui" },	
+		{ "id": 3, "date":2017 , "plateforme":"web", "nom":"CapGénie", "technologies":["Angular", "dotnet", "Xamarin"], "projet_client":"non" },
+		{ "id": 4, "date":2017 , "plateforme":"mobile", "nom":"Nexity", "technologies":["Java/Android", "Swift"], "projet_client":"oui" },
+		{ "id": 5, "date":2018 , "plateforme":"mobile", "nom":"Digicare", "technologies":["Java/Android", "Swift"], "projet_client":"oui" },
+		{ "id": 6, "date":2018 , "plateforme":"mobile", "nom":"Mobile Factory", "technologies":["Java/Android"], "projet_client":"non" },
+		{ "id": 7, "date":2018 , "plateforme":"mobile", "nom":"Lonchamps", "technologies":["React", "Springboot"], "projet_client":"oui" },
+		{ "id": 8, "date":2018 , "plateforme":"web", "nom":"Dior", "technologies":["Vue.js", "Springboot"], "projet_client":"oui" },	
+		{ "id": 9, "date":2019 , "plateforme":"web", "nom":"Saint Gobaint", "technologies":["React", "Django"], "projet_client":"oui" },
+		{ "id": 10, "date":2019 , "plateforme":"web", "nom":"DF", "technologies":["Angular", "Springboot"], "projet_client":"non" },
+		{ "id": 11, "date":2020 , "plateforme":"mobile", "nom":"Carrefour", "technologies":["React Native", "Node.js"], "projet_client":"oui" },
+		{ "id": 12, "date":2020 , "plateforme":"mobile", "nom":"Centrale Lille", "technologies":["React Native", "Node.js"], "projet_client":"oui" }
+]
